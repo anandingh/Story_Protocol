@@ -25,7 +25,7 @@ if [ -d "Story-Protocol" ]; then
 fi
 
 show "Cloning Story repository..."
-git clone https://github.com/zunxbt/Story-Protocol.git && cd Story-Protocol
+git clone https://github.com/anandingh/Story_Protocol.git && cd Story_Protocol
 
 show "Installing npm dependencies..."
 npm install
