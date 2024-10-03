@@ -37,7 +37,7 @@ const main = async function () {
     //
     // Docs: https://eips.ethereum.org/EIPS/eip-721
     const nftMetadata = {
-        name: 'ZunXBT',
+        name: 'BtcBBT',
         description: 'This is a test NFT on Iliad',
         image: 'https://picsum.photos/200',
     }
