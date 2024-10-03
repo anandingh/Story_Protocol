@@ -23,8 +23,8 @@ const main = async function () {
     // you can use it in SPG functions.
     //
     const newCollection = await client.nftClient.createNFTCollection({
-        name: 'ZunXBT',
-        symbol: 'ZUN',
+        name: 'bTCwORLD',
+        symbol: 'btw',
         txOptions: { waitForTransaction: true },
     })
 
